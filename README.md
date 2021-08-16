@@ -7,7 +7,8 @@
 # DEVELOPMENT ON CREATIO PLATFORM
 
 ## Useful links
-<!-- - [Clio][clio] - Integration utility for Creatio platform -->
+
+- [Clio][clio] - Integration utility for Creatio platform
 - [File System Mode][fsmode] - WIKI how to enable development in filesystem mode
 - [Custom Logging][nlog] - How to enable custom logging
 - [FTP] - Download Creatio
@@ -23,8 +24,8 @@
 ## SESSION VIDEO RECODING
 |Day|Download Link|
 |:--:|:--:|
-<!-- 
 |1|[Link][d1v]|
+<!-- 
 |2|[Link][d2v]|
 |3|[Link][d3v]|
 |4|[Link][d4v]|
@@ -47,8 +48,8 @@ Thank you for having taken development training with me. In order to make this c
 
 
 <!-- Named Links -->
+[d1v]: https://creatio-global.zoom.us/rec/share/dfEW_ra2-G_5d3QslhlIiQQMXgsgnKmgw-M2roY2lt_YqceD-WbA2ms7TvWqM6qy.EZVX0rSvek9UaIpi
 <!-- 
-[d1v]: 
 [d2v]: 
 [d3v]: 
 [d4v]: 
@@ -65,7 +66,7 @@ Thank you for having taken development training with me. In order to make this c
 [nlog]:https://github.com/Academy-Creatio/TrainingProgramm/wiki/Custom-Logging-with-NLog
 [oData]:https://documenter.getpostman.com/view/10204500/SztHX5Qb?version=latest
 [vsTpl]:https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
-[ftp]:http://ftp.bpmonline.com/support/downloads/!Release/installation_files/7.18.0/
+[ftp]:http://ftp.bpmonline.com/support/downloads/!Release/installation_files/
 
 [feedBackForm]:https://forms.office.com/Pages/ResponsePage.aspx?id=-6Jce0OmhUOLOTaTQnDHFs1n4KjdfnVBtjvFqBN3Vk9UNERLUlJXSzNZVUkzMFJUMEtWVlhYOEpOWi4u
 [about]:https://github.com/kirillkrylov/ImagesAndPages/wiki/Kirill-Krylov,-CPA
