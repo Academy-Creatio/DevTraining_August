@@ -15,6 +15,14 @@
           "A4": "c3c1a564-fc18-4fc0-b770-fd6c8ca15942",
           "A5": "a02fde9f-470d-4f0c-b9c7-6ca2a66b1ebb",
           "GF1": "null"
+        },
+        {
+          "UId": "4d15ce7c-7a38-4f38-aa9a-7d6f0e5b6fa0",
+          "A2": "Terrasoft.Core.Factories",
+          "A3": "c3c1a564-fc18-4fc0-b770-fd6c8ca15942",
+          "A4": "c3c1a564-fc18-4fc0-b770-fd6c8ca15942",
+          "A5": "a02fde9f-470d-4f0c-b9c7-6ca2a66b1ebb",
+          "GF1": "null"
         }
       ],
       "B6": "8f5e356e-c826-776c-eeb5-e5d5fb951186",
@@ -116,7 +124,7 @@
           "BO3": true,
           "BP2": [],
           "CL2": "FFFFFFFF",
-          "CH1": "string test = \"Hello world\";\nILog logger = LogManager.GetLogger(\"GuidedLearningLogger\");\nlogger.Info(\"First log message\");\nreturn true;",
+          "CH1": "var ca = new ConstructorArgument(\"userConnection\", UserConnection);\r\nvar calc = ClassFactory.Get<DevAugust.API.ICalculator>(\"One\", ca);\r\nint result = calc.Add(10, 15);\r\n\r\nILog logger = LogManager.GetLogger(\"GuidedLearningLogger\");\r\nlogger.InfoFormat(\"Result is {0}\", result);\r\nreturn true;",
           "CH2": true
         },
         {

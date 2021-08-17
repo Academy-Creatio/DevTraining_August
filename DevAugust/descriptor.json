@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "61f195de-c742-4876-a34e-51c4712c2f88",
+    "PackageVersion": "7.8.0",
+    "Name": "DevAugust",
+    "ModifiedOnUtc": "\/Date(1629210959000)\/",
+    "Maintainer": "Customer",
+    "Description": "https://github.com/Academy-Creatio/DevTraining_August/blob/main/README.md",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

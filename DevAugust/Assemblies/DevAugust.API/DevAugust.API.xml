@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevAugust.API</name>
+    </assembly>
+    <members>
+        <member name="T:DevAugust.API.ICalculator">
+            <summary>
+            Basic calculator interface
+            </summary>
+        </member>
+        <member name="M:DevAugust.API.ICalculator.Add(System.Int32,System.Int32)">
+            <summary>
+            Adds two integers
+            </summary>
+            <param name="a">First Number</param>
+            <param name="b">Second Number</param>
+            <returns>Result of addition</returns>
+        </member>
+        <member name="M:DevAugust.API.ICalculator.Multiply(System.Int32,System.Int32)">
+            <summary>
+            Multiplies two integers
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns>Result of multiplication</returns>
+        </member>
+        <member name="T:DevAugust.API.IConfToClio">
+            <summary>
+            Features of Terrasoft.Confiiguration exposed to clio package
+            </summary>
+        </member>
+        <member name="M:DevAugust.API.IConfToClio.PostMessage(Terrasoft.Core.UserConnection,System.String,System.String)">
+            <summary>
+            Sends web socket message to a user identified by the <paramref name="userConnection"/>
+            </summary>
+            <param name="userConnection"></param>
+            <param name="senderName"></param>
+            <param name="messageText"></param>
+            <remarks>
+            See <seealso href="https://academy.creatio.com/docs/developer/front-end_development/websocket_message_sending_mechanism/the_client-side_websocket_message_handler"> academy documentation </seealso> for details
+            </remarks>
+        </member>
+        <member name="M:DevAugust.API.IConfToClio.PostMessageToAll(System.String,System.String)">
+            <summary>
+            Broadcasts web socket message to all users
+            </summary>
+            <param name="senderName"></param>
+            <param name="messageText"></param>
+            <remarks>
+            See <seealso href="https://academy.creatio.com/docs/developer/front-end_development/websocket_message_sending_mechanism/the_client-side_websocket_message_handler"> academy documentation </seealso> for details
+            </remarks>
+        </member>
+    </members>
+</doc>

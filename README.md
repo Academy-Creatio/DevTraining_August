@@ -25,8 +25,8 @@
 |Day|Download Link|
 |:--:|:--:|
 |1|[Link][d1v]|
-<!-- 
 |2|[Link][d2v]|
+<!--
 |3|[Link][d3v]|
 |4|[Link][d4v]|
 |5|[Link][d5v]|
@@ -49,8 +49,8 @@ Thank you for having taken development training with me. In order to make this c
 
 <!-- Named Links -->
 [d1v]: https://creatio-global.zoom.us/rec/share/dfEW_ra2-G_5d3QslhlIiQQMXgsgnKmgw-M2roY2lt_YqceD-WbA2ms7TvWqM6qy.EZVX0rSvek9UaIpi
+[d2v]: https://creatio-global.zoom.us/rec/share/jiIY-4l-x4I55xI4TRlDRKsN58HTKseW24bxcNCe3zyqhCIV6TP_p-sDEJ5dNzKi.RaV_GyZ6AaRIHfAj
 <!-- 
-[d2v]: 
 [d3v]: 
 [d4v]: 
 [d5v]: 
