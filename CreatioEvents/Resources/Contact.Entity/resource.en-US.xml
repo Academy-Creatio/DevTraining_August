@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess_OnContactInserted.Caption" Value="on AFTER Contact Inserted" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess_OnContactInserting.Caption" Value="on ContactInserting (BEFORE contact inserted)" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess_OnContactValidating.Caption" Value="on ContactValidating" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage4_12ed6022842b4fa48393142c6312547a.Caption" Value="on ContactInserted" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage5_0865aac055784e78a138f9088b445b8d.Caption" Value="on ContactInserting" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage6_b6ba0785df8041cd952b8a0610b7a039.Caption" Value="on ContactValidating" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_b6612510e2b34585937b71824fd2029d.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_b6612510e2b34585937b71824fd2029d.Lanes.Lane_dc0e059a7f8e47f89a4012692647c1eb.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

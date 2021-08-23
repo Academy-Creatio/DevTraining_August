@@ -1,0 +1,17 @@
+{
+  "Descriptor": {
+    "UId": "61f50bf7-8d9b-4fa4-9014-ceea1bcedbbf",
+    "PackageVersion": "7.8.0",
+    "Name": "CreatioEvents",
+    "ModifiedOnUtc": "/Date(1629728152000)/",
+    "Maintainer": "Customer",
+    "Description": "Working with Eents",
+    "DependsOn": [
+        {
+          "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+          "PackageVersion": "7.8.0",
+          "Name": "ProductCore"
+        }
+      ]
+  }
+}
