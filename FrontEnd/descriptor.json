@@ -1,11 +1,9 @@
 ﻿{
   "Descriptor": {
-    "UId": "61f50bf7-8d9b-4fa4-9014-ceea1bcedbbf",
-    "PackageVersion": "7.8.0",
-    "Name": "CreatioEvents",
-    "ModifiedOnUtc": "\/Date(1629728152000)\/",
+    "UId": "b45f0bd9-079c-5d9a-b7c7-599c884f42bf",
+    "Name": "FrontEnd",
+    "ModifiedOnUtc": "\/Date(1629900379000)\/",
     "Maintainer": "Customer",
-    "Description": "Working with Eents",
     "DependsOn": [
       {
         "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",

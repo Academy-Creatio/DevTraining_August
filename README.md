@@ -15,11 +15,9 @@
 - [Odata] postman collection
 - [FetchFromDb][fetchFromDb] method
 
-<!-- 
+
 - Import Postman Environment and Collection from Postman folder. This folder includes DataService requests
 - [Import Visual Studio][vsTpl] Templates provided in VisualStudioTemplate folder.  
--->
-
 
 ## SESSION VIDEO RECODING
 |Day|Download Link|
@@ -30,10 +28,9 @@
 |4|[Link][d4v]|
 |5|[Link][d5v]|
 |6|[Link][d6v]|
-<!--
 |7|[Link][d7v]|
 |8|[Link][d8v]|
--->
+
 
 ---
 ## [Feedback][feedBackForm]
@@ -50,14 +47,13 @@ Thank you for having taken development training with me. In order to make this c
 <!-- Named Links -->
 [d1v]: https://creatio-global.zoom.us/rec/share/dfEW_ra2-G_5d3QslhlIiQQMXgsgnKmgw-M2roY2lt_YqceD-WbA2ms7TvWqM6qy.EZVX0rSvek9UaIpi
 [d2v]: https://creatio-global.zoom.us/rec/share/jiIY-4l-x4I55xI4TRlDRKsN58HTKseW24bxcNCe3zyqhCIV6TP_p-sDEJ5dNzKi.RaV_GyZ6AaRIHfAj
-[d3v]:https://creatio-global.zoom.us/rec/share/0_aNV-TrKSMuFOWNb5jkN1sROMCKmAf9AQFfOab6h42olLtCabh9oiedFayv4EEr.tfISKzY4-cSQClOc 
+[d3v]: https://creatio-global.zoom.us/rec/share/0_aNV-TrKSMuFOWNb5jkN1sROMCKmAf9AQFfOab6h42olLtCabh9oiedFayv4EEr.tfISKzY4-cSQClOc 
 [d4v]: https://creatio-global.zoom.us/rec/share/hlqJ-3_HY5RakAnR-cUxIBdsHO6QYmb8vUl2hdkYPVk3JeHB3q_FP7CJSKyNCH4e.H4RKJxFc24Vp2PK-
 [d5v]: https://creatio-global.zoom.us/rec/share/HJgua9xSZPMldVnIejgy_yi3JuDD9pHGynmPoMU69n6bu03H3q4-X1F2-7mS2IQ.x0-D5eIk8ARuZuTW
 [d6v]: https://creatio-global.zoom.us/rec/share/ggdtSiru6eLtYw4OsTZmIPFupeEIzshW-psFFQl3-ktHBDEwXIzLSwQ4yR_SEMU.jmqczlZeJ1FIxqWn
-<!--
-[d7v]: 
-[d8v]:
--->
+[d7v]: https://creatio-global.zoom.us/rec/share/URAPTgT7ASvcWCB19NJBxSxwGjNzyNAgRYsn7B_DrR-OzPHDpsaD5Yer8VtB0kJC.xr1oKrqdaxMt_f8
+[d8v]: https://creatio-global.zoom.us/rec/share/X4DP0_IYQukm9LWwvaeTXjPHc3Cq4pmYGP841IzxJnrq1lIgz657U7PKRhudTj7L.XGWIiFcsU6wGUGI7
+
 
 
 <!-- Links -->
