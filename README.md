@@ -51,8 +51,8 @@ Thank you for having taken development training with me. In order to make this c
 [d4v]: https://creatio-global.zoom.us/rec/share/hlqJ-3_HY5RakAnR-cUxIBdsHO6QYmb8vUl2hdkYPVk3JeHB3q_FP7CJSKyNCH4e.H4RKJxFc24Vp2PK-
 [d5v]: https://creatio-global.zoom.us/rec/share/HJgua9xSZPMldVnIejgy_yi3JuDD9pHGynmPoMU69n6bu03H3q4-X1F2-7mS2IQ.x0-D5eIk8ARuZuTW
 [d6v]: https://creatio-global.zoom.us/rec/share/ggdtSiru6eLtYw4OsTZmIPFupeEIzshW-psFFQl3-ktHBDEwXIzLSwQ4yR_SEMU.jmqczlZeJ1FIxqWn
-[d7v]: https://creatio-global.zoom.us/rec/share/URAPTgT7ASvcWCB19NJBxSxwGjNzyNAgRYsn7B_DrR-OzPHDpsaD5Yer8VtB0kJC.xr1oKrqdaxMt_f8
-[d8v]: https://creatio-global.zoom.us/rec/share/X4DP0_IYQukm9LWwvaeTXjPHc3Cq4pmYGP841IzxJnrq1lIgz657U7PKRhudTj7L.XGWIiFcsU6wGUGI7
+[d7v]: https://creatio-global.zoom.us/rec/share/-E1ILkraZuWgLLqlBwGBD8CWinkduvRVseVwCeNzM40sKf6OhLvjeHkrOhbhiDs7.8mmYdVd37mz0PSbh
+[d8v]: https://creatio-global.zoom.us/rec/share/gM6TrshbDH7sujvncO6Ij_00QHHCosPa-sSUsWEimvcIvxSejS7Zm8GXQogZW6Kx.d5FcU4WCFYBvLA_m
 
 
 
